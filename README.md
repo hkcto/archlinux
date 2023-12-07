@@ -1,0 +1,2 @@
+# archlinux
+ArchLinux install script
